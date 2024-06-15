@@ -3,9 +3,9 @@ The Word Search Puzzle Solver project aims to create a robust and user-friendly 
 
 # Objectives:
  The project aims to provide users with a tool that not only finds solutions to word search puzzles but also allows them to explore and compare different solving algorithms. The specific objectives include:
- ● Developaninteractive user interface allowing users to select difficulty levels and themes.
- ● Implementalgorithms to generate word search puzzles based on selected parameters.
- ● Implementthree different algorithms, Backtracking, Knuth-Morris-Pratt and Breadth First Search, for solving the generated puzzles.
- ● Evaluate the efficiency of the Backtracking, Knuth-Morris-Pratt and Breadth First Search algorithms in solving word search puzzles.
- ● Enableusers to interactively input their guesses for word search puzzles and compare their guesses with the results provided
+ ● Developaninteractive user interface allowing users to select difficulty levels and themes. <br/>
+ ● Implementalgorithms to generate word search puzzles based on selected parameters. <br/>
+ ● Implementthree different algorithms, Backtracking, Knuth-Morris-Pratt and Breadth First Search, for solving the generated puzzles. <br/>
+ ● Evaluate the efficiency of the Backtracking, Knuth-Morris-Pratt and Breadth First Search algorithms in solving word search puzzles. <br/>
+ ● Enableusers to interactively input their guesses for word search puzzles and compare their guesses with the results provided.
 
